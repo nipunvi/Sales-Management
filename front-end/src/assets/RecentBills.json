@@ -1,0 +1,73 @@
+[ 
+    { 
+    "refId":"202403 2519 4758 915",
+    "paymentValue":10000,
+    "rows":[ 
+        {
+           "UOM":"Kg",
+           "item":"Onion",
+           "quantity":"1",
+           "total":"Rs 1960.00"
+        },
+        {
+            "UOM":"L",
+            "item":"Icecream",
+            "quantity":"2",
+            "total":"Rs 1890.00"
+        },
+        {
+            "UOM":"Kg",
+            "item":"Tomato",
+            "quantity":"3",
+            "total":"Rs 2800.00"
+        },
+        {
+            "UOM":"Pks",
+            "item":"Salt",
+            "quantity":"5",
+            "total":"Rs 800.00"
+        }
+    ]
+},{ 
+    "refId":"202403 2518 4758 112",
+    "paymentValue":4000,
+     "rows":[
+        {
+            "UOM":"Pks",
+            "item":"Salt",
+            "quantity":"5",
+            "total":"Rs 800.40"
+        },
+        {
+            "UOM":"Kg",
+            "item":"Tomato",
+            "quantity":"3",
+            "total":"Rs 2800.18"
+        }
+    ]
+},{
+    "refId":"202403 2417 4050 315",
+    "paymentValue":7000,
+    "rows": [
+        {
+            "UOM":"L",
+            "item":"Icecream",
+            "quantity":"2",
+            "total":"Rs 1890.00"
+        },
+        {
+            "UOM":"Kg",
+            "item":"Tomato",
+            "quantity":"3",
+            "total":"Rs 2800.00"
+        },
+        {
+            "UOM":"Kg",
+           "item":"Onion",
+           "quantity":"1",
+           "total":"Rs 1960.00"
+        }
+    ]
+  }
+    
+]

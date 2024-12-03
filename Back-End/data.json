@@ -1,0 +1,448 @@
+[
+    {
+        "refId": "202402 0621 2320 469",
+        "paymentValue": "10400",
+        "totalProfit": 1253,
+        "rows": [
+            {
+                "id": "001",
+                "item": "Potato",
+                "quantity": "2",
+                "total": "Rs 7000.00",
+                "UOM": "Kg",
+                "totalCost": 6000
+            },
+            {
+                "id": "005",
+                "item": "green",
+                "quantity": "2",
+                "total": "Rs 101.00",
+                "UOM": "Kg",
+                "totalCost": 50
+            },
+            {
+                "id": "007",
+                "item": "pumkin",
+                "quantity": "2",
+                "total": "Rs 1301.00",
+                "UOM": "Kg",
+                "totalCost": 1200
+            },
+            {
+                "id": "010",
+                "item": "icecream",
+                "quantity": "2",
+                "total": "Rs 1901.00",
+                "UOM": "L",
+                "totalCost": 1800
+            }
+        ]
+    },
+    {
+        "refId": "202402 0622 4720 850",
+        "paymentValue": "800",
+        "totalProfit": 250,
+        "rows": [
+            {
+                "id": "012",
+                "item": "Kos",
+                "quantity": "3",
+                "total": "Rs 450.00",
+                "UOM": "Pks",
+                "totalCost": 300
+            },
+            {
+                "id": "012",
+                "item": "Kos",
+                "quantity": "2",
+                "total": "Rs 300.00",
+                "UOM": "Pks",
+                "totalCost": 200
+            }
+        ]
+    },
+    {
+        "refId": "202402 0622 5145 643",
+        "paymentValue": "300",
+        "totalProfit": 100,
+        "rows": [
+            {
+                "id": "012",
+                "item": "Kos",
+                "quantity": "2",
+                "total": "Rs 300.00",
+                "UOM": "Pks",
+                "totalCost": 200
+            }
+        ]
+    },
+    {
+        "refId": "202403 0622 5407 280",
+        "paymentValue": "300",
+        "totalProfit": 100,
+        "rows": [
+            {
+                "id": "012",
+                "item": "Kos",
+                "quantity": "2",
+                "total": "Rs 300.00",
+                "UOM": "Pks",
+                "totalCost": 200
+            }
+        ]
+    },
+    {
+        "refId": "202403 0623 1052 785",
+        "paymentValue": "300",
+        "totalProfit": 100,
+        "rows": [
+            {
+                "id": "012",
+                "item": "Kos",
+                "quantity": "2",
+                "total": "Rs 300.00",
+                "UOM": "Pks",
+                "totalCost": 200
+            }
+        ]
+    },
+    {
+        "refId": "202403 0623 1714 814",
+        "paymentValue": "300",
+        "totalProfit": 100,
+        "rows": [
+            {
+                "id": "012",
+                "item": "Kos",
+                "quantity": "2",
+                "total": "Rs 300.00",
+                "UOM": "Pks",
+                "totalCost": 200
+            }
+        ]
+    },
+    {
+        "refId": "202403 0623 2247 449",
+        "paymentValue": "450",
+        "totalProfit": 150,
+        "rows": [
+            {
+                "id": "012",
+                "item": "Kos",
+                "quantity": "3",
+                "total": "Rs 450.00",
+                "UOM": "Pks",
+                "totalCost": 300
+            }
+        ]
+    },
+    {
+        "refId": "202403 0623 2545 201",
+        "paymentValue": "500",
+        "totalProfit": 150,
+        "rows": [
+            {
+                "id": "012",
+                "item": "Kos",
+                "quantity": "3",
+                "total": "Rs 450.00",
+                "UOM": "Pks",
+                "totalCost": 300
+            }
+        ]
+    },
+    {
+        "refId": "202404 0623 2706 696",
+        "paymentValue": "0300",
+        "totalProfit": 100,
+        "rows": [
+            {
+                "id": "012",
+                "item": "Kos",
+                "quantity": "2",
+                "total": "Rs 300.00",
+                "UOM": "Pks",
+                "totalCost": 200
+            }
+        ]
+    },
+    {
+        "refId": "202404 0623 2917 275",
+        "paymentValue": "400",
+        "totalProfit": 100,
+        "rows": [
+            {
+                "id": "012",
+                "item": "Kos",
+                "quantity": "2",
+                "total": "Rs 300.00",
+                "UOM": "Pks",
+                "totalCost": 200
+            }
+        ]
+    },
+    {
+        "refId": "202404 0623 3204 974",
+        "paymentValue": "300",
+        "totalProfit": 100,
+        "rows": [
+            {
+                "id": "012",
+                "item": "Kos",
+                "quantity": "2",
+                "total": "Rs 300.00",
+                "UOM": "Pks",
+                "totalCost": 200
+            }
+        ]
+    },
+    {
+        "refId": "202404 0623 5556 505",
+        "paymentValue": "600",
+        "totalProfit": 200,
+        "rows": [
+            {
+                "id": "012",
+                "item": "Kos",
+                "quantity": "4",
+                "total": "Rs 600.00",
+                "UOM": "Pks",
+                "totalCost": 400
+            }
+        ]
+    },
+    {
+        "refId": "202404 0623 5638 687",
+        "paymentValue": "800",
+        "totalProfit": 250,
+        "rows": [
+            {
+                "id": "012",
+                "item": "Kos",
+                "quantity": "5",
+                "total": "Rs 750.00",
+                "UOM": "Pks",
+                "totalCost": 500
+            }
+        ]
+    },
+    {
+        "refId": "202404 0623 5811 390",
+        "paymentValue": "300",
+        "totalProfit": 100,
+        "rows": [
+            {
+                "id": "012",
+                "item": "Kos",
+                "quantity": "2",
+                "total": "Rs 300.00",
+                "UOM": "Pks",
+                "totalCost": 200
+            }
+        ]
+    },
+    {
+        "refId": "202404 0623 5935 280",
+        "paymentValue": "300",
+        "totalProfit": 100,
+        "rows": [
+            {
+                "id": "012",
+                "item": "Kos",
+                "quantity": "2",
+                "total": "Rs 300.00",
+                "UOM": "Pks",
+                "totalCost": 200
+            }
+        ]
+    },
+    {
+        "refId": "202404 0700 0923 522",
+        "paymentValue": "300",
+        "totalProfit": 100,
+        "rows": [
+            {
+                "id": "012",
+                "item": "Kos",
+                "quantity": "2",
+                "total": "Rs 300.00",
+                "UOM": "Pks",
+                "totalCost": 200
+            }
+        ]
+    },
+    {
+        "refId": "202404 0700 1001 499",
+        "paymentValue": "450",
+        "totalProfit": 150,
+        "rows": [
+            {
+                "id": "012",
+                "item": "Kos",
+                "quantity": "3",
+                "total": "Rs 450.00",
+                "UOM": "Pks",
+                "totalCost": 300
+            }
+        ]
+    },
+    {
+        "refId": "202404 0700 1019 826",
+        "paymentValue": "450",
+        "totalProfit": 150,
+        "rows": [
+            {
+                "id": "012",
+                "item": "Kos",
+                "quantity": "3",
+                "total": "Rs 450.00",
+                "UOM": "Pks",
+                "totalCost": 300
+            }
+        ]
+    },
+    {
+        "refId": "202404 0700 2001 519",
+        "paymentValue": "300",
+        "totalProfit": 100,
+        "rows": [
+            {
+                "id": "012",
+                "item": "Kos",
+                "quantity": "2",
+                "total": "Rs 300.00",
+                "UOM": "Pks",
+                "totalCost": 200
+            }
+        ]
+    },
+    {
+        "refId": "202404 0813 2502 846",
+        "paymentValue": "3000",
+        "totalProfit": 290.4,
+        "rows": [
+            {
+                "id": "001",
+                "item": "Potato",
+                "quantity": "0.500",
+                "total": "Rs 1750.00",
+                "UOM": "Kg",
+                "totalCost": 1500
+            },
+            {
+                "id": "002",
+                "item": "Tomato",
+                "quantity": ".800",
+                "total": "Rs 520.40",
+                "UOM": "Kg",
+                "totalCost": 480
+            }
+        ]
+    },
+    {
+        "refId": "202404 1017 2906 729",
+        "paymentValue": "11000",
+        "totalProfit": 1200,
+        "rows": [
+            {
+                "id": "001",
+                "item": "Potato",
+                "quantity": "3",
+                "total": "Rs 10200.00",
+                "UOM": "Kg",
+                "totalCost": 9000
+            }
+        ]
+    },
+    {
+        "refId": "202404 1021 5914 617",
+        "paymentValue": "6900",
+        "totalProfit": 800,
+        "rows": [
+            {
+                "id": "001",
+                "item": "Potato",
+                "quantity": "2",
+                "total": "Rs 6800.00",
+                "UOM": "Kg",
+                "totalCost": 6000
+            }
+        ]
+    },
+    {
+        "refId": "202404 1211 0030 567",
+        "paymentValue": "7000",
+        "totalProfit": 800,
+        "rows": [
+            {
+                "id": "001",
+                "item": "Potato",
+                "quantity": "2",
+                "total": "Rs 6800.00",
+                "UOM": "Kg",
+                "totalCost": 6000
+            }
+        ]
+    },
+    {
+        "refId": "202404 1312 4302 126",
+        "paymentValue": "11000",
+        "totalProfit": 1101,
+        "rows": [
+            {
+                "id": "001",
+                "item": "Potato",
+                "quantity": "2",
+                "total": "Rs 6800.00",
+                "UOM": "Kg",
+                "totalCost": 6000
+            },
+            {
+                "id": "005",
+                "item": "green Chillie",
+                "quantity": "2",
+                "total": "Rs 101.00",
+                "UOM": "Kg",
+                "totalCost": 50
+            },
+            {
+                "id": "007",
+                "item": "pumkin",
+                "quantity": "5",
+                "total": "Rs 3250.00",
+                "UOM": "Kg",
+                "totalCost": 3000
+            }
+        ]
+    },
+    {
+        "refId": "202404 1314 4510 298",
+        "paymentValue": "34000",
+        "totalProfit": 4000,
+        "rows": [
+            {
+                "id": "001",
+                "item": "Potato",
+                "quantity": "10",
+                "total": "Rs 34000.00",
+                "UOM": "Kg",
+                "totalCost": 30000
+            }
+        ]
+    },
+    {
+        "refId": "202404 1314 4726 982",
+        "paymentValue": "17000",
+        "totalProfit": 2000,
+        "rows": [
+            {
+                "id": "001",
+                "item": "Potato",
+                "quantity": "5",
+                "total": "Rs 17000.00",
+                "UOM": "Kg",
+                "totalCost": 15000
+            }
+        ]
+    }
+]

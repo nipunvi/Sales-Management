@@ -1,0 +1,98 @@
+[
+   {
+      "id": "001",
+      "item Name": "Potato",
+      "available stock": 94.5,
+      "UOM": "Kg",
+      "buying price": "3000",
+      "selling price": "3500"
+   },
+   {
+      "id": "002",
+      "item Name": "Tomato",
+      "available stock": "100",
+      "UOM": "Kg",
+      "buying price": 600,
+      "selling price": 650.5
+   },
+   {
+      "id": "003",
+      "item Name": "Carrot",
+      "available stock": "44",
+      "UOM": "Kg",
+      "buying price": 800,
+      "selling price": 850.5
+   },
+   {
+      "id": "004",
+      "item Name": "Chillie",
+      "available stock": "100",
+      "UOM": "Kg",
+      "buying price": 1800,
+      "selling price": 1950.5
+   },
+   {
+      "id": "005",
+      "item Name": "green",
+      "available stock": "100",
+      "UOM": "Kg",
+      "buying price": 25,
+      "selling price": 50.5
+   },
+   {
+      "id": "006",
+      "item Name": "chilie",
+      "available stock": "200",
+      "UOM": "Kg",
+      "buying price": 600,
+      "selling price": 690
+   },
+   {
+      "id": "007",
+      "item Name": "pumkin",
+      "available stock": 42,
+      "UOM": "Kg",
+      "buying price": 600,
+      "selling price": 650.5
+   },
+   {
+      "id": "008",
+      "item Name": "cucumber",
+      "available stock": "25",
+      "UOM": "Kg",
+      "buying price": "700",
+      "selling price": 750.5
+   },
+   {
+      "id": "009",
+      "item Name": "salt",
+      "available stock": "100",
+      "UOM": "Pks",
+      "buying price": 200,
+      "selling price": 250.7
+   },
+   {
+      "id": "010",
+      "item Name": "icecream",
+      "available stock": "40",
+      "UOM": "L",
+      "buying price": 900,
+      "selling price": 950.5
+   },
+   {
+      "id": "011",
+      "item Name": "wer",
+      "available stock": 25,
+      "UOM": "L",
+      "buying price": 234,
+      "selling price": "235"
+   },
+   {
+      "id": "012",
+      "item Name": "Kos",
+      "available stock": "12",
+      "UOM": "Pks",
+      "buying price": 100,
+      "selling price": 150
+   }
+]

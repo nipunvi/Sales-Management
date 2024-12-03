@@ -1,0 +1,18 @@
+[
+   {
+      "id": "001",
+      "item Name": "Potato",
+      "UOM": "Kg",
+      "totalSales": "100",
+      "totalRevenue": "80000.00",
+      "totalCost": "60000.00"
+   },
+   {
+      "id": "012",
+      "item Name": "Kos",
+      "UOM": "Pks",
+      "totalSales": 21,
+      "totalRevenue": 3150,
+      "totalCost": 2100
+   }
+]

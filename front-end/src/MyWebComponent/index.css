@@ -1,0 +1,90 @@
+
+
+.whole{
+  background-color: rgba(0, 0, 0, 0.144);
+}
+.BrandIcon{
+  display: flex;
+  height: 30vh;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+ 
+
+}
+.myImg{
+  max-width: 50%;
+  max-height: 50%;
+}
+.serch-card{
+  background-color: rgba(255, 255, 255, 0.151); /* Set the background color with opacity */
+  border: none;
+}
+.searchContainer{
+  display: flex;
+  justify-content: end;
+  margin: 10px;
+ 
+}
+.topSearch{
+  margin-right: 5px;
+  border:1px solid black;
+  border-radius: 5px;
+  
+}
+.searchBtn{
+  border:0;
+  border-radius: 10px;
+}
+
+.serch-card{
+  box-shadow: rgba(0, 0, 0, 0.308) 10px 0px 50px;
+}
+.billCardAtBilling{
+  box-shadow: rgba(0, 0, 0, 0.308) 10px 0px 50px;
+  display: flex;
+  background-color: rgba(128, 128, 128, 0.479);
+
+}
+.billCard{
+ 
+  box-shadow: rgba(0, 0, 0, 0.308) 10px 0px 50px;
+  display: flex;
+  background-color: rgba(128, 128, 128, 0.479);
+  align-items: center;
+  justify-content: center;
+}
+
+.billingCardContainer{
+  height: 81vh;
+  margin-top: 20px;
+  
+}
+
+#bill{
+  background-image: url('../assets/creditCard.png'); 
+  background-size: cover; 
+  background-position: center; 
+  color: white;
+  height: 175px;
+  text-align: center;
+  justify-content: center;
+  font-family:'Courier New', Courier, monospace;
+  font-size: large;
+  
+}
+
+#bill.clicked{
+  transform: scale(0.5);
+ 
+}
+#tableItemName{
+  cursor: pointer;
+  color: blue;
+}
+#tableItemName:hover{
+  scale: 1.03;
+  background-color: rgba(173, 174, 175, 0.301);
+}
+
+
